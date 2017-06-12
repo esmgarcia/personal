@@ -7,6 +7,6 @@ categories: jekyll update
 
 An image: 
 
-![Philippines and the Japanese home islands](https://esmgarcia.github.io/personal/assets/map_ph_jp.png)
+![Philippines and the Japanese home islands]({{ site.url }}/personal/assets/map_ph_jp.png)
 
-Test again?
+Test?

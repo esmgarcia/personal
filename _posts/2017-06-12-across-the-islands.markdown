@@ -7,6 +7,6 @@ categories: jekyll update
 
 An image: 
 
-![Philippines and the Japanese home islands](../_img/map_ph_jp.png)
+![Philippines and the Japanese home islands](_img/map_ph_jp.png)
 
 Test?

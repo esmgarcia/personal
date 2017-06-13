@@ -24,7 +24,7 @@ github_username:  esmgarcia
 
 # Build settings
 markdown: kramdown
-categories: maps
+theme: minima
 gems:
   - jekyll-feed
 exclude:

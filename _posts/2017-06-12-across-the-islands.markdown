@@ -2,7 +2,7 @@
 layout: post
 title:  "Across the Islands"
 date:   2017-06-12 18:00:00 +0900
-categories:
+categories: maps
 ---
 
 Today marks the independence day of the Republic of the Philippines. As my way of observing the occasion, I am posting some maps I made that compare the north-to-south extent of the Philippine archipelago with some other island groups.

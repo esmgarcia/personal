@@ -16,33 +16,33 @@ I used the [Generic Mapping Tools](http://kramdown.gettalong.org) software packa
 # Japan
 The four largest islands of Honshu, Hokkaido, Kyushu and Shikoku comprise what are sometimes referred to as the Japanese home islands. Not shown in the map are the Ryukyu, Izu, and Ogasawara island groups. Honshu is the seventh largest island in the world by land area.
 
-![Philippines and the Japanese home islands]({{ site.url }}/personal/assets/map_ph_jp.png)
+![Philippines and the Japanese home islands]({{ site.url }}/personal/assets/img/map_ph_jp.png)
 
 ---
 
 # British Isles
 The two largest islands in the British Isles are Great Britan and Ireland. Great Britain is the ninth largest island in the world by land area.
 
-![Philippines and the British Isles (Great Britain and Ireland)]({{ site.url }}/personal/assets/map_ph_uk.png)
+![Philippines and the British Isles (Great Britain and Ireland)]({{ site.url }}/personal/assets/img/map_ph_uk.png)
 
 ---
 
 # Sumatra
 Sumatra is the largest island in the Indonesian archipelago. This map also shows the Malay peninsula, as well as the western coast of the island of Java. Sumatra is the sixth largest island in the world by land area.
 
-![Philippines and Sumatra (Indonesia)]({{ site.url }}/personal/assets/map_ph_sum.png)
+![Philippines and Sumatra (Indonesia)]({{ site.url }}/personal/assets/img/map_ph_sum.png)
 
 ---
 
 # New Zealand
 The mainland of New Zealand includes North and South Island. This map does not show the Chatham islands. South Island is the twelfth largest island in the world by land area.
 
-![Philippines and New Zealand]({{ site.url }}/personal/assets/map_ph_nz.png)
+![Philippines and New Zealand]({{ site.url }}/personal/assets/img/map_ph_nz.png)
 
 ---
 
 # Madagascar
 This map also shows the islands of Comoros to the northwest, which is not part of the territory of Madagascar. Madagascar is the fourth largest island in the world by land area.
 
-![Philippines and Madagascar]({{ site.url }}/personal/assets/map_ph_mad.png)
+![Philippines and Madagascar]({{ site.url }}/personal/assets/img/map_ph_mad.png)
 

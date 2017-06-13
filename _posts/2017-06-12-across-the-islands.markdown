@@ -9,7 +9,7 @@ Today marks the independence day of the Republic of the Philippines. As my way o
 
 In making these maps I chose a cylindrical equidistant projection, and projected each pair of maps at the same scale and at the approximate center of each selected region. Very roughly, this means that the distances between pairs of points separated by the same amount of degrees in latitude should be approximately the same in kilometers when comparing between the map of the Philippine islands and the adjacent map of a different archipelago.
 
-I used the [Generic Mapping Tools](http://kramdown.gettalong.org) software package to make these digital map images. The code snippets to reproduce them are available upon request.
+I used the [Generic Mapping Tools](http://gmt.soest.hawaii.edu) software package to make these digital map images. The code snippets to reproduce them are available upon request.
 
 ---
 
